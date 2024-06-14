@@ -1,0 +1,31 @@
+{
+  "name": "isomorphic-font-scaler",
+  "version": "0.0.1-rc.0",
+  "description": "An isomorphic font scaler written in Rust for Node and JavaScript applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"[TEST]: Not implemented yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredrikstave/isomorphic-font-scaler.git"
+  },
+  "keywords": [
+    "Rust",
+    "Node",
+    "JavaScript",
+    "Isomorphic",
+    "WebAssembly",
+    "News",
+    "Media",
+    "Blog",
+    "Container",
+    "Queries"
+  ],
+  "author": "Fredrik Stave <fredrik.stave@vevmester.no>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fredrikstave/isomorphic-font-scaler/issues"
+  },
+  "homepage": "https://github.com/fredrikstave/isomorphic-font-scaler#readme"
+}
